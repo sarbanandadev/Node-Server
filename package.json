@@ -1,0 +1,20 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "This is my npm application",
+  "main": "",
+  "scripts": {
+    "start": "node serve-static.js"
+  },
+  "dependencies": {
+    "mime-types": "^2.1.35"
+  },
+  "engines": {
+    "node": "18.x"
+  },
+  "repository": {
+    "url": ""
+  },
+  "author": "",
+  "license": "ISC"
+}
